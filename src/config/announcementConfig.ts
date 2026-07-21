@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "欢迎来到李瑞锋的博客，模板由我来借鉴学习，小白求指导。",
+	content: "欢迎来到我的博客，模板由我来借鉴学习，感写参观，不定时更新。",
 
 	// 是否允许用户关闭公告
 	closable: true,
